@@ -14618,7 +14618,7 @@ Glycogen storage disease, type 0 [MIM:240600]</field>
     <field name="info">
 mutations </field>
 </record>
-<record model="oemedical.disease.gene" id="H19">
+<record model="oemedical.disease.gene" id="disease_gene_H19">
     <field name="name">H19</field>
     <field name="long_name">H19, imprinted maternally expressed transcript (non-protein coding)</field>
     <field name="chromosome">11</field>

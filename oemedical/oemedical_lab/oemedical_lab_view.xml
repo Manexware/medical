@@ -132,7 +132,7 @@
             <field name="type">form</field>
             <field name="inherit_id" ref="oemedical.view_oemedical_patient_form"/>
             <field name="arch" type="xml">
-                <xpath expr="//notebook/page[@string='Misc']" position="before">
+                <xpath expr="//notebook/page[1]" position="before">
                     <page string="Lab Tests">
                         <field name="lab_test_ids" colspan="4" nolabel="1">
                             <tree string="Lab Tests">

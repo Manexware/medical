@@ -3,10 +3,10 @@
     <data noupdate="1">
 
         <!-- Sequences for oemedical.patient -->
-        <record id="seq_type_oemedical_patient" model="ir.sequence.type">
-            <field name="name">OeMedical Patient</field>
-            <field name="code">oemedical.patient</field>
-        </record>
+        <!--<record id="seq_type_oemedical_patient" model="ir.sequence.type">-->
+            <!--<field name="name">OeMedical Patient</field>-->
+            <!--<field name="code">oemedical.patient</field>-->
+        <!--</record>-->
 
         <record id="seq_oemedical_patient" model="ir.sequence">
             <field name="name">OeMedical Patient</field>
@@ -16,10 +16,10 @@
         </record>
         
         <!-- Sequences for oemedical.appointment -->
-        <record id="seq_type_oemedical_appointment" model="ir.sequence.type">
-            <field name="name">OeMedical Appointment</field>
-            <field name="code">oemedical.appointment</field>
-        </record>
+        <!--<record id="seq_type_oemedical_appointment" model="ir.sequence.type">-->
+            <!--<field name="name">OeMedical Appointment</field>-->
+            <!--<field name="code">oemedical.appointment</field>-->
+        <!--</record>-->
 
         <record id="seq_oemedical_appointment" model="ir.sequence">
             <field name="name">OeMedical Appointment</field>
@@ -29,10 +29,10 @@
         </record>
         
         <!-- Sequences for oemedical.prescription.order -->
-        <record id="seq_type_oemedical_prescription_order" model="ir.sequence.type">
-            <field name="name">OeMedical Prescription Order</field>
-            <field name="code">oemedical.prescription.order</field>
-        </record>
+        <!--<record id="seq_type_oemedical_prescription_order" model="ir.sequence.type">-->
+            <!--<field name="name">OeMedical Prescription Order</field>-->
+            <!--<field name="code">oemedical.prescription.order</field>-->
+        <!--</record>-->
 
         <record id="seq_oemedical_prescription_order" model="ir.sequence">
             <field name="name">OeMedical Prescription Order</field>
